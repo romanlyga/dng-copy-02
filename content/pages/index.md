@@ -56,7 +56,7 @@ sections:
     grid_gap_vert: medium
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: пщщпдуюсщь
         style: link
         has_icon: false
         icon: arrow-left
