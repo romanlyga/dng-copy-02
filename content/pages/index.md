@@ -56,7 +56,7 @@ sections:
     grid_gap_vert: medium
     actions:
       - label: lorem-ipsum
-        url: пщщпдуюсщь
+        url: google.com
         style: link
         has_icon: false
         icon: arrow-left
